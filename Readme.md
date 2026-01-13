@@ -1,4 +1,4 @@
-# 🇮🇳 COVID-19 India Data Analysis Project
+# COVID-19 India Data Analysis Project
 
 This project explores and visualizes the impact of COVID-19 in India using Python data science libraries. It includes data cleaning, exploratory data analysis, geographic visualizations, and time-series forecasting.
 
